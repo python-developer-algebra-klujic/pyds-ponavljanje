@@ -1,0 +1,19 @@
+record_id;machine_type;shift;operator_level;maintenance_done_recently;temperature_c;pressure_bar;vibration_mm_s;current_a;runtime_hours;humidity_pct;production_rate_units_h;defect_count_last_hour;days_since_maintenance
+101531;Pump;Night;Senior;No;104.37;7.46;1,08;22.69;1231.7;49.0;113.7;3;113
+100163;CNC;Morning;Junior;No;71.71;5.09;0.79;24,75;412.6;54.7;74.7;0;23
+102092;Conveyor;Morning;Intermediate;No;51.41;6.38;1.54;19.77;847.1;72.9;98.8;0;15
+100746;Pump;Afternoon;Intermediate;No;69.67;9.26;1.74;25.84;450.2;59.7;104.3;0;93
+102446;Compressor;Night;Intermediate;Y;97.45;6.95;3.76;14.73;716.8;74.6;98.8;2;81
+100693;CNC;Afternoon;Intermediate;No;67.34;7,47;4.87;21.13;238.6;30.7;122.8;1;44
+100794;CNC;Morning;Senior;No;74.29;5.13;3.8;18.04;675,0;43.4;109.2;1;19
+102099;CNC;Afternoon;Senior;No;84.99;6,55;1.55;19.18;283.4;53.8;123.3;3;106
+101659;Pump;Night;Junior;No;74.15;6.82;4,51;20.95;1485.0;54.5;81.1;0;24
+100829;Conveyor;Night;Senior;No;71.1 C;4.81;1.33;15.63;1028.4;47.5;111.8;0;6
+100565;Compressor;Afternoon;Intermediate;No;75.87;7.59;0.67;11.99;779.6;47.2;117.0;1;50
+101539;Conveyor;Night;Senior;No;70.54;5.45;2.4;17.85;500.4;43.0;125.4;2;40
+100515;Pump;Afternoon;Junior;No;75.62;8.62;2.17;21.8;639.2;30.2;113.7;2;100
+102280;Compressor;Afternoon;Senior;No;102,13;7.93;3.8;17.78 A;820.1;42.7;85.3;5;110
+101234;Compressor;Afternoon;Senior;No;75,15;6.36;1.56;20.13;1208.0;48.3;75.2;3;74
+101700;Compressor;Afternoon;Senior;No;87.31;7.92;7.9;16.81;782.9;48.8;99.8;1;2
+101359;Compressor;Morning;Senior;No;85.22;6.95;3.99;23,32;947.7;55.0;82.6;5;36
+102198;Pump;Afternoon;;Yes;82.2;5.67 bar;3.58;10.49;924,7;42.2;106.8;3;84
